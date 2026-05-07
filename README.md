@@ -54,5 +54,10 @@ To maintain a high Signal-to-Noise Ratio (SNR), the system separates digital and
 - [ ] Miniaturization of the PCB for wearable wrist-band testing.
 - [ ] Development of a mobile app for real-time data visualization via Bluetooth.
 
+## 🎓 Acknowledgments
+
+I would like to express my sincere gratitude to the **International Institute of Information Technology, Bangalore (IIIT-B)** for providing the resources and technical knowledge necessary to complete this project.
+
+Special thanks to **Dr. Kurian Polachan** for his invaluable mentorship, technical insights, and constant encouragement throughout the design and development of this non-invasive diagnostic platform.
 ---
 *Developed as part of a graduate-level VLSI/ASIC project focusing on biomedical instrumentation.*
