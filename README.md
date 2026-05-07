@@ -28,6 +28,19 @@ To maintain a high Signal-to-Noise Ratio (SNR), the system separates digital and
 * **3V3D (Digital):** Driven by a **TPS62840** Buck converter for the MCU.
 * **3V3A (Analog):** Isolated via an **LP2985 LDO** and **Ferrite Bead** to prevent MCU switching noise from corrupting sensitive sensor data.
 
+## 🖼️ Hardware Visuals
+
+### **System Architecture**
+![Root Schematic](Images/Root%20Schematic.png)
+
+### **PCB Layout**
+![Layout](Images/Layout.png)
+
+### **3D Renderings**
+| Top View | Bottom View |
+| :--- | :--- |
+| ![3D Top](Images/3D%20view%20top.png) | ![3D Bottom](Images/3D%20view%20bottom.png) |
+
 ## 📂 Project Specifications
 | Category | Component | Key Feature |
 | :--- | :--- | :--- |
